@@ -103,11 +103,9 @@ const About = () => {
           >
             <div className="max-w-4xl mx-auto rounded-2xl p-6 sm:p-8 bg-white/5 border border-white/10 shadow-lg text-center">
               <p className="text-lg leading-relaxed">
-                With professional experience in high-scale systems, I operate
-                at the intersection of backend engineering and AI. My work
-                emphasizes idempotent processing, fault tolerance, cost
-                optimization, and predictable system behavior — ensuring
-                systems remain stable even under peak concurrency.
+                
+
+                
               </p>
             </div>
           </motion.div>
